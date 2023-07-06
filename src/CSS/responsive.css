@@ -74,12 +74,10 @@
         position: relative;
     }
     .carousel {
-        width: 400px;
         margin: 100px auto;
         border-radius: 12px;
         overflow: hidden;
         scroll-behavior: smooth;
-        display: none;
     }
     .carousel ul  {
         list-style: none;
